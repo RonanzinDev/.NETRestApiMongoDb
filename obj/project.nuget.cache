@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sg+Vq5rgmxUHCGoN4nC/44BAziybRbp5b2xQ/PbBMWTDT2iIZkO0EeRHi4GdMRe8eZrz0Cew2xmDdFkiW7vpCw==",
+  "dgSpecHash": "IqLGhdwO1Zx97Mqz2J8973ly18R2x0PUdyxE3Lp5WS2cE82X0PNnEsTP+e4bybsSn3IdHsHZpsdDKBxVrJhS8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
+  "projectFilePath": "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ronan\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

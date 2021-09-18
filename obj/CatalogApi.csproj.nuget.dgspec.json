@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj": {}
+    "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj": {
+    "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
+        "projectUniqueName": "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
         "projectName": "CatalogApi",
-        "projectPath": "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
+        "projectPath": "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\CatalogApi.csproj",
         "packagesPath": "C:\\Users\\Ronan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronan\\desktop\\prog\\apis\\c#\\CatalogApi\\obj\\",
+        "outputPath": "C:\\Users\\Ronan\\Desktop\\Prog\\apis\\c#\\CatalogApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronan\\AppData\\Roaming\\NuGet\\NuGet.Config",
